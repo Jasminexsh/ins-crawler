@@ -1,2 +1,2 @@
-# ins-resources-save
+# ins-crawler
 script : save instagram photos and videos with username
